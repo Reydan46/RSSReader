@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RSS Reader</string>
+    <string name="menu_about">О программе</string>
+    <string name="menu_main_about_title">О программе</string>
+    <string name="menu_main_about_ok">Ок</string>
+    <string name="menu_exit">Выход</string>
+    <string name="menu_main_about_message">Программа была разработана студентом группы 681073 Сидельниковым Андреем Григорьевичем</string>
+    <string name="menu_refresh">Обновить</string>
+    <string name="menu_edit_user_url">Изменить свой адрес</string>
+    <string name="menu_share">Поделиться</string>
+    <string name="menu_rss_feed">Лента</string>
+    <string name="menu_user_rss">Свой адрес</string>
+    <string name="title_user_rss">Введите свой адрес RSS:</string>
+    <string name="tv_link">Смотреть на сайте</string>
+    <string name="title_error_get_url">Ошибка</string>
+    <string name="text_error_get_url">Невозможно получить ленту!</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RSS Reader</string>
+    <string name="menu_about">About</string>
+    <string name="menu_main_about_title">About</string>
+    <string name="menu_main_about_ok">OK</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_main_about_message">"The program was developed by a group of students 681073 Sidelnikov Andrei
+        Grigorievich\n "
+    </string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_edit_user_url">Edit user adress</string>
+    <string name="menu_share">Share</string>
+    <string name="tv_link">Show in site</string>
+    <string name="title_user_rss">Enter user address RSS:</string>
+    <string name="menu_rss_feed">Feed</string>
+    <string name="title_error_get_url">Error</string>
+    <string name="menu_user_rss">User address</string>
+    <string name="text_error_get_url">Imposible to get feed!</string>
+</resources>

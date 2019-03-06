@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="string_name_rss">
+        <item>news.tut.by</item>
+        <item>onliner.by</item>
+        <item>habr.com</item>
+        <item>pikabu.ru</item>
+        <item>adme.ru</item>
+        <item>pogoda.by</item>
+        <item>gismeteo.ru</item>
+    </string-array>
+    <string-array name="string_urls_rss">
+        <item>https://news.tut.by/rss/42/devices_tehno.rss</item>
+        <item>https://tech.onliner.by/feed</item>
+        <item>https://habr.com/ru/rss/best/daily/?fl=ru</item>
+        <item>https://pikabu.ru/xmlfeeds.php?cmd=popular</item>
+        <item>https://adme.ru/rss/</item>
+        <item>http://www.pogoda.by/rss2/rss.php</item>
+        <item>http://informer.gismeteo.ru/rss/26850.xml</item>
+    </string-array>
+
+</resources>

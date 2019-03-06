@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:title="@string/menu_edit_user_url"
+            android:id="@+id/menu_edit_user_url"
+            android:icon="@android:drawable/ic_menu_preferences"
+            app:showAsAction="ifRoom"
+            android:visible="false"
+    />
+    <item
+            android:title="@string/menu_refresh"
+            android:id="@+id/menu_refresh"
+            android:icon="@android:drawable/stat_notify_sync_noanim"
+            app:showAsAction="ifRoom"
+    />
+    <item
+            android:title="@string/menu_about"
+            android:id="@+id/menu_about"
+    />
+    <item
+            android:title="@string/menu_exit"
+            android:id="@+id/menu_exit"
+    />
+</menu>
